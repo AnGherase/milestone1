@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80308fb3-12c7-4e4b-9b0d-3a500d5c5b47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/LaMer_CoolGelCream_Teaser.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/eloise1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/face.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/facial8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/haarentfernung-waxing.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/home_chrome_effects.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lancome.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/makeup.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nails.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shutterstock_59744084_2.1920x1200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tanning.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/schedule.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577894725347</updated>
       <workItem from="1577894728431" duration="773000" />
-      <workItem from="1577895517099" duration="10536000" />
+      <workItem from="1577895517099" duration="11715000" />
     </task>
     <task id="LOCAL-00001" summary="add index frame">
       <created>1577896351852</created>
@@ -169,7 +157,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577902388618</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="completing services page">
+      <created>1577906120681</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1577906120681</updated>
+    </task>
+    <task id="LOCAL-00015" summary="completing products page">
+      <created>1577906154396</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1577906154396</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,13 +190,15 @@
     <MESSAGE value="change footer" />
     <MESSAGE value="completing index" />
     <MESSAGE value="completing about us" />
-    <option name="LAST_COMMIT_MESSAGE" value="completing about us" />
+    <MESSAGE value="completing services page" />
+    <MESSAGE value="completing products page" />
+    <option name="LAST_COMMIT_MESSAGE" value="completing products page" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1577906119739">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1577906153358">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1577906119739" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1577906153358" />
     <state x="516" y="235" width="258" height="210" key="Github.ShareDialog" timestamp="1577895555478">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -203,10 +207,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1577895231545" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1577906124101">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1577906157400">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1577906124101" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1577906157400" />
     <state x="297" y="153" key="run.anything.popup" timestamp="1577898882482">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
