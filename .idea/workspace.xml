@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80308fb3-12c7-4e4b-9b0d-3a500d5c5b47" name="Default Changelist" comment="completing nav bar">
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+    <list default="true" id="80308fb3-12c7-4e4b-9b0d-3a500d5c5b47" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,7 @@
       <workItem from="1577895517099" duration="15554000" />
       <workItem from="1577911113101" duration="3000" />
       <workItem from="1578253135659" duration="2564000" />
-      <workItem from="1578298644168" duration="4663000" />
+      <workItem from="1578298644168" duration="5156000" />
     </task>
     <task id="LOCAL-00001" summary="add index frame">
       <created>1577896351852</created>
@@ -206,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577910770280</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="completing background color">
+      <created>1578315249335</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1578315249335</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,13 +238,14 @@
     <MESSAGE value="completing team.html page" />
     <MESSAGE value="completing links.html page" />
     <MESSAGE value="completing nav bar" />
-    <option name="LAST_COMMIT_MESSAGE" value="completing nav bar" />
+    <MESSAGE value="completing background color" />
+    <option name="LAST_COMMIT_MESSAGE" value="completing background color" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1578308283706">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1578315248719">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1578308283706" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1578315248719" />
     <state x="516" y="235" width="258" height="210" key="Github.ShareDialog" timestamp="1577895555478">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -246,10 +254,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1577895231545" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1577910772292">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1578315252552">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1577910772292" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1578315252552" />
     <state x="297" y="153" key="run.anything.popup" timestamp="1577898882482">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
