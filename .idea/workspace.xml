@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="80308fb3-12c7-4e4b-9b0d-3a500d5c5b47" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,7 @@
       <workItem from="1578253135659" duration="2564000" />
       <workItem from="1578298644168" duration="8509000" />
       <workItem from="1578340461730" duration="1556000" />
-      <workItem from="1578768104223" duration="4331000" />
+      <workItem from="1578768104223" duration="4609000" />
     </task>
     <task id="LOCAL-00001" summary="add index frame">
       <created>1577896351852</created>
@@ -262,7 +261,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578773272647</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="update css">
+      <created>1578773745177</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1578773745177</updated>
+    </task>
+    <task id="LOCAL-00028" summary="update index.html">
+      <created>1578773849273</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1578773849273</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,13 +305,15 @@
     <MESSAGE value="change address" />
     <MESSAGE value="added UDX" />
     <MESSAGE value="add readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="add readme.md" />
+    <MESSAGE value="update css" />
+    <MESSAGE value="update index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="update index.html" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1578773744614">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1578773848646">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1578773744614" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1578773848646" />
     <state x="516" y="235" width="258" height="210" key="Github.ShareDialog" timestamp="1577895555478">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -307,10 +322,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1577895231545" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1578773747717">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1578773850384">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1578773747717" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1578773850384" />
     <state x="297" y="153" key="run.anything.popup" timestamp="1577898882482">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
