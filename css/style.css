@@ -1,4 +1,74 @@
+
 body {
     background-color: beige;
     font-family: "Roboto Light", sans-serif;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 3rem;
+}
+
+p {
+    font-size: larger;
+}
+
+li {
+    font-size: larger;
+}
+
+.card {
+    background-color: beige;
+    padding: 5px;
+}
+
+.card-title {
+    font-size: x-large;
+}
+
+.bg-light {
+    background-color: beige !important;
+}
+
+.jumbotron {
+    background-color: antiquewhite;
+}
+
+.jumbotron p {
+    font-size: larger;
+}
+
+.social-section {
+    font-family: 'Fontdiner Swanky', cursive;
+    font-weight: 500;
+    color: #595E62;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 44px;
+    padding-bottom: 22px;
+}
+
+.social-links {
+    padding-bottom: 15px;
+    text-align: right;
+}
+
+.social-links li a i {
+    width: 52px;
+    height: 52px;
+    padding: 21px 0;
+    border-radius: 50%;
+    font-size: 40px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: darkblue;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+}
+
+.btn {
+    border: 2px solid;
 }

@@ -13,9 +13,13 @@ Technologies used
 •	Google Chrome developer tools (DevTools)
 •	Font Awesome
 
+## User Design Experience 
+Please look at the User Design Experience folder to see my UDX. I have added my Scope, Strategy, Skeleton, Structure planes inside the folder. 
+
 ## Deployment 
 •	The website was coded in the Webstorm 2019.3.1., a local GIT directory was used for version control and then uploaded to GITHUB. Once it was in GITHUB repositories, it was made live using GITHUB pages. The website can be found at: 
 http://localhost:63342/milestone1/about.html
+
 ## Testing
 •	Each page was tested locally on the Github pages using Chrome developer tools, testing its functionality, as well as look and feel (in landscape and portrait mode) on Galaxy S5, Nexus 5S, Nexus 6P, iPhone 7, iPhone 7 plus, iPhone 8, iPhone 8 plus, iPhone X, iPad, iPad pro and responsive desktop. All links were tested along with video player. The modal join fan club and the book us form was tested locally and remotely. 
 1.	Example on how the Contact form was tested: 
